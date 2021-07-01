@@ -1,0 +1,14 @@
+D:\c#\Cobro\Cobro\bin\Debug\Cobro.exe.config
+D:\c#\Cobro\Cobro\bin\Debug\Cobro.exe
+D:\c#\Cobro\Cobro\bin\Debug\Cobro.pdb
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.csprojAssemblyReference.cache
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.Form1.resources
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.Properties.Resources.resources
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.csproj.GenerateResource.cache
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.csproj.CoreCompileInputs.cache
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.exe
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.pdb
+D:\c#\Cobro\Cobro\bin\Debug\Cobro.exe.manifest
+D:\c#\Cobro\Cobro\bin\Debug\Cobro.application
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.exe.manifest
+D:\c#\Cobro\Cobro\obj\Debug\Cobro.application
